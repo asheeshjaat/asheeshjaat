@@ -1,5 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Asheesh Choudhary</h1>
+<h2>A self-motivated and ambitious Full Stack Java Backend Developer , Passion-driven learner with the ability to write clean, reusable, optimised code. Skilled and experienced at building and maintaining Java based web applications. Looking forward to joining a progressive and challenging work environment.</h2>
 <h3 align="center">A passionate Backend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
 
