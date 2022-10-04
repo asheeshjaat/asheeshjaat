@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/jaatasheesh" target="blank"><img src="https://img.shields.io/twitter/follow/jaatasheesh?logo=twitter&style=for-the-badge" alt="jaatasheesh" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://creative-crepe-694e56.netlify.app/](https://creative-crepe-694e56.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://asheeshportfolio.netlify.app//)
 
 - 💬 Ask me about **HTML,CSS,Javascript,Java,SQL,Spring Boot**
 
 - 📫 How to reach me **Asheeshjaat2175@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OsDCG9dXqmsQpIWMo2uEnYZRvG2qcBIO/view](https://drive.google.com/file/d/1OsDCG9dXqmsQpIWMo2uEnYZRvG2qcBIO/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1bUDNmTbybFUlsXmu1suXVHEe9Hdkb20m/view](https://drive.google.com/file/d/1OsDCG9dXqmsQpIWMo2uEnYZRvG2qcBIO/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
